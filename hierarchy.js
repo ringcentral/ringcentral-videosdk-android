@@ -1,0 +1,106 @@
+var hierarchy =
+[
+    [ "com.ringcentral.video.AudioConsumer", "classcom_1_1ringcentral_1_1video_1_1AudioConsumer.html", null ],
+    [ "com.ringcentral.video.AudioController", "classcom_1_1ringcentral_1_1video_1_1AudioController.html", null ],
+    [ "com.ringcentral.video.AudioDeviceEventHandler", "classcom_1_1ringcentral_1_1video_1_1AudioDeviceEventHandler.html", null ],
+    [ "com.ringcentral.video.AudioDeviceManager", "classcom_1_1ringcentral_1_1video_1_1AudioDeviceManager.html", null ],
+    [ "com.ringcentral.video.AudioEventHandler", "classcom_1_1ringcentral_1_1video_1_1AudioEventHandler.html", null ],
+    [ "com.ringcentral.video.AudioProcessor", "classcom_1_1ringcentral_1_1video_1_1AudioProcessor.html", null ],
+    [ "com.ringcentral.video.AudioRouteType", "enumcom_1_1ringcentral_1_1video_1_1AudioRouteType.html", null ],
+    [ "com.ringcentral.video.CaptureDevicePosition", "enumcom_1_1ringcentral_1_1video_1_1CaptureDevicePosition.html", null ],
+    [ "com.ringcentral.video.ChatPrivilege", "enumcom_1_1ringcentral_1_1video_1_1ChatPrivilege.html", null ],
+    [ "com.ringcentral.video.ChatType", "enumcom_1_1ringcentral_1_1video_1_1ChatType.html", null ],
+    [ "com.ringcentral.video.ClosedCaptionsController", "classcom_1_1ringcentral_1_1video_1_1ClosedCaptionsController.html", null ],
+    [ "com.ringcentral.video.ClosedCaptionsData", "classcom_1_1ringcentral_1_1video_1_1ClosedCaptionsData.html", null ],
+    [ "com.ringcentral.video.ClosedCaptionsState", "enumcom_1_1ringcentral_1_1video_1_1ClosedCaptionsState.html", null ],
+    [ "com.ringcentral.video.EEchoLeakType", "enumcom_1_1ringcentral_1_1video_1_1EEchoLeakType.html", null ],
+    [ "com.ringcentral.video.EndToEndEncryptionState", "enumcom_1_1ringcentral_1_1video_1_1EndToEndEncryptionState.html", null ],
+    [ "com.ringcentral.video.EngineEventHandler", "classcom_1_1ringcentral_1_1video_1_1EngineEventHandler.html", null ],
+    [ "com.ringcentral.video.ENqiStatus", "enumcom_1_1ringcentral_1_1video_1_1ENqiStatus.html", null ],
+    [ "com.ringcentral.video.EParticipantStatus", "enumcom_1_1ringcentral_1_1video_1_1EParticipantStatus.html", null ],
+    [ "com.ringcentral.video.EReactionAction", "enumcom_1_1ringcentral_1_1video_1_1EReactionAction.html", null ],
+    [ "com.ringcentral.video.ErrorCodeType", "enumcom_1_1ringcentral_1_1video_1_1ErrorCodeType.html", null ],
+    [ "com.ringcentral.video.EStreamActivity", "enumcom_1_1ringcentral_1_1video_1_1EStreamActivity.html", null ],
+    [ "com.ringcentral.video.RcvVideoCanvas.FirstFrameListener", "interfacecom_1_1ringcentral_1_1video_1_1RcvVideoCanvas_1_1FirstFrameListener.html", null ],
+    [ "com.ringcentral.video.RcvVideoCanvas.FrameResolutionChangeListener", "interfacecom_1_1ringcentral_1_1video_1_1RcvVideoCanvas_1_1FrameResolutionChangeListener.html", null ],
+    [ "com.ringcentral.video.GrantType", "enumcom_1_1ringcentral_1_1video_1_1GrantType.html", null ],
+    [ "com.ringcentral.video.InitHelper", "classcom_1_1ringcentral_1_1video_1_1InitHelper.html", null ],
+    [ "com.ringcentral.video.InstantMeetingSettings", "classcom_1_1ringcentral_1_1video_1_1InstantMeetingSettings.html", null ],
+    [ "com.ringcentral.video.IParticipant", "classcom_1_1ringcentral_1_1video_1_1IParticipant.html", null ],
+    [ "com.ringcentral.video.LeaveReason", "enumcom_1_1ringcentral_1_1video_1_1LeaveReason.html", null ],
+    [ "com.ringcentral.video.LocalAudioError", "enumcom_1_1ringcentral_1_1video_1_1LocalAudioError.html", null ],
+    [ "com.ringcentral.video.LocalAudioMuteReason", "enumcom_1_1ringcentral_1_1video_1_1LocalAudioMuteReason.html", null ],
+    [ "com.ringcentral.video.LocalAudioStats", "classcom_1_1ringcentral_1_1video_1_1LocalAudioStats.html", null ],
+    [ "com.ringcentral.video.LocalAudioStreamState", "enumcom_1_1ringcentral_1_1video_1_1LocalAudioStreamState.html", null ],
+    [ "com.ringcentral.video.LocalVideoMuteReason", "enumcom_1_1ringcentral_1_1video_1_1LocalVideoMuteReason.html", null ],
+    [ "com.ringcentral.video.LocalVideoStats", "classcom_1_1ringcentral_1_1video_1_1LocalVideoStats.html", null ],
+    [ "com.ringcentral.video.MeetingApiExecuteResult", "enumcom_1_1ringcentral_1_1video_1_1MeetingApiExecuteResult.html", null ],
+    [ "com.ringcentral.video.MeetingBridgeInfo", "classcom_1_1ringcentral_1_1video_1_1MeetingBridgeInfo.html", null ],
+    [ "com.ringcentral.video.MeetingChatController", "classcom_1_1ringcentral_1_1video_1_1MeetingChatController.html", null ],
+    [ "com.ringcentral.video.MeetingChatMessage", "classcom_1_1ringcentral_1_1video_1_1MeetingChatMessage.html", null ],
+    [ "com.ringcentral.video.MeetingContextController", "classcom_1_1ringcentral_1_1video_1_1MeetingContextController.html", null ],
+    [ "com.ringcentral.video.MeetingController", "classcom_1_1ringcentral_1_1video_1_1MeetingController.html", null ],
+    [ "com.ringcentral.video.MeetingDialCountryInfo", "classcom_1_1ringcentral_1_1video_1_1MeetingDialCountryInfo.html", null ],
+    [ "com.ringcentral.video.MeetingDialInfo", "classcom_1_1ringcentral_1_1video_1_1MeetingDialInfo.html", null ],
+    [ "com.ringcentral.video.MeetingErrorType", "enumcom_1_1ringcentral_1_1video_1_1MeetingErrorType.html", null ],
+    [ "com.ringcentral.video.MeetingEventHandler", "classcom_1_1ringcentral_1_1video_1_1MeetingEventHandler.html", null ],
+    [ "com.ringcentral.video.MeetingInfo", "classcom_1_1ringcentral_1_1video_1_1MeetingInfo.html", null ],
+    [ "com.ringcentral.video.MeetingOptions", "classcom_1_1ringcentral_1_1video_1_1MeetingOptions.html", null ],
+    [ "com.ringcentral.video.MeetingState", "enumcom_1_1ringcentral_1_1video_1_1MeetingState.html", null ],
+    [ "com.ringcentral.video.MeetingStatisticEventHandler", "classcom_1_1ringcentral_1_1video_1_1MeetingStatisticEventHandler.html", null ],
+    [ "com.ringcentral.video.MeetingType", "enumcom_1_1ringcentral_1_1video_1_1MeetingType.html", null ],
+    [ "com.ringcentral.video.MeetingUserController", "classcom_1_1ringcentral_1_1video_1_1MeetingUserController.html", null ],
+    [ "com.ringcentral.video.MeetingUserEventHandler", "classcom_1_1ringcentral_1_1video_1_1MeetingUserEventHandler.html", null ],
+    [ "com.ringcentral.video.NqiState", "enumcom_1_1ringcentral_1_1video_1_1NqiState.html", null ],
+    [ "com.ringcentral.video.OauthOptions", "classcom_1_1ringcentral_1_1video_1_1OauthOptions.html", null ],
+    [ "com.ringcentral.video.OnlyAuthUserJoinMode", "enumcom_1_1ringcentral_1_1video_1_1OnlyAuthUserJoinMode.html", null ],
+    [ "com.ringcentral.video.PersonalMeetingSettings", "classcom_1_1ringcentral_1_1video_1_1PersonalMeetingSettings.html", null ],
+    [ "com.ringcentral.video.PlayTonesMode", "enumcom_1_1ringcentral_1_1video_1_1PlayTonesMode.html", null ],
+    [ "com.ringcentral.video.RcvEngine", "classcom_1_1ringcentral_1_1video_1_1RcvEngine.html", null ],
+    [ "com.ringcentral.video.RecordingController", "classcom_1_1ringcentral_1_1video_1_1RecordingController.html", null ],
+    [ "com.ringcentral.video.RecordingMode", "enumcom_1_1ringcentral_1_1video_1_1RecordingMode.html", null ],
+    [ "com.ringcentral.video.RecordingState", "enumcom_1_1ringcentral_1_1video_1_1RecordingState.html", null ],
+    [ "ReleasableView", null, [
+      [ "com.ringcentral.video.RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1RcvVideoView.html", null ]
+    ] ],
+    [ "com.ringcentral.video.RemoteAudioStats", "classcom_1_1ringcentral_1_1video_1_1RemoteAudioStats.html", null ],
+    [ "com.ringcentral.video.RemoteVideoStats", "classcom_1_1ringcentral_1_1video_1_1RemoteVideoStats.html", null ],
+    [ "com.ringcentral.video.RenderMode", "enumcom_1_1ringcentral_1_1video_1_1RenderMode.html", null ],
+    [ "com.ringcentral.video.ScheduleMeetingSettings", "classcom_1_1ringcentral_1_1video_1_1ScheduleMeetingSettings.html", null ],
+    [ "com.ringcentral.video.SharingController", "classcom_1_1ringcentral_1_1video_1_1SharingController.html", null ],
+    [ "com.ringcentral.video.SharingEventHandler", "classcom_1_1ringcentral_1_1video_1_1SharingEventHandler.html", null ],
+    [ "com.ringcentral.video.SharingSettings", "enumcom_1_1ringcentral_1_1video_1_1SharingSettings.html", null ],
+    [ "com.ringcentral.video.SharingState", "enumcom_1_1ringcentral_1_1video_1_1SharingState.html", null ],
+    [ "com.ringcentral.video.SharingType", "enumcom_1_1ringcentral_1_1video_1_1SharingType.html", null ],
+    [ "com.ringcentral.video.TranscriptionsMode", "enumcom_1_1ringcentral_1_1video_1_1TranscriptionsMode.html", null ],
+    [ "com.ringcentral.video.VideoCanvas", "classcom_1_1ringcentral_1_1video_1_1VideoCanvas.html", [
+      [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1RcvVideoCanvas.html", null ]
+    ] ],
+    [ "com.ringcentral.video.VideoConsumer", "classcom_1_1ringcentral_1_1video_1_1VideoConsumer.html", null ],
+    [ "com.ringcentral.video.VideoController", "classcom_1_1ringcentral_1_1video_1_1VideoController.html", null ],
+    [ "com.ringcentral.video.VideoDeviceEventHandler", "classcom_1_1ringcentral_1_1video_1_1VideoDeviceEventHandler.html", null ],
+    [ "com.ringcentral.video.VideoDeviceManager", "classcom_1_1ringcentral_1_1video_1_1VideoDeviceManager.html", null ],
+    [ "com.ringcentral.video.VideoEventHandler", "classcom_1_1ringcentral_1_1video_1_1VideoEventHandler.html", null ],
+    [ "com.ringcentral.video.VideoProcessor", "classcom_1_1ringcentral_1_1video_1_1VideoProcessor.html", null ],
+    [ "com.ringcentral.video.WaitingRoomMode", "enumcom_1_1ringcentral_1_1video_1_1WaitingRoomMode.html", null ],
+    [ "FrameLayout", null, [
+      [ "com.ringcentral.video.RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1RcvVideoView.html", null ]
+    ] ],
+    [ "ILocalizationProvider", null, [
+      [ "com.ringcentral.video.LocalizationProvider", "classcom_1_1ringcentral_1_1video_1_1LocalizationProvider.html", null ]
+    ] ],
+    [ "RendererEvents", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1RcvTextureViewRenderer.html", null ],
+      [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1RcvVideoCanvas.html", null ]
+    ] ],
+    [ "SurfaceTextureListener", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1RcvTextureViewRenderer.html", null ]
+    ] ],
+    [ "TextureView", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1RcvTextureViewRenderer.html", null ]
+    ] ],
+    [ "VideoSink", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1RcvTextureViewRenderer.html", null ],
+      [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1RcvVideoCanvas.html", null ]
+    ] ]
+];
