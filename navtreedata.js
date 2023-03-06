@@ -27,12 +27,10 @@ var NAVTREE =
   [ "RingCentral Video Client SDK for Android", "index.html", [
     [ "Overview", "index.html#autotoc_md1", null ],
     [ "Prerequisites", "index.html#autotoc_md2", null ],
-    [ "How To Run The Sample Projects", "index.html#autotoc_md3", null ],
-    [ "How To Program Real-time Video With Android", "index.html#autotoc_md4", [
-      [ "Building A Project With Java/Kotlin", "index.html#autotoc_md5", null ]
-    ] ],
-    [ "Known Issues", "index.html#autotoc_md6", null ],
-    [ "Contact Us", "index.html#autotoc_md7", null ],
+    [ "How To Use Video SDK With Android", "index.html#autotoc_md3", null ],
+    [ "Getting Started", "index.html#autotoc_md4", null ],
+    [ "Known Issues", "index.html#autotoc_md5", null ],
+    [ "Contact Us", "index.html#autotoc_md6", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", null ]
     ] ],
