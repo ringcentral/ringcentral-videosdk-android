@@ -17,6 +17,7 @@ var annotated_dup =
           [ "ClosedCaptionsData", "classcom_1_1ringcentral_1_1video_1_1_closed_captions_data.html", "classcom_1_1ringcentral_1_1video_1_1_closed_captions_data" ],
           [ "ClosedCaptionsState", "enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html", "enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state" ],
           [ "EEchoLeakType", "enumcom_1_1ringcentral_1_1video_1_1_e_echo_leak_type.html", "enumcom_1_1ringcentral_1_1video_1_1_e_echo_leak_type" ],
+          [ "EJoinMeetingType", "enumcom_1_1ringcentral_1_1video_1_1_e_join_meeting_type.html", "enumcom_1_1ringcentral_1_1video_1_1_e_join_meeting_type" ],
           [ "EndToEndEncryptionState", "enumcom_1_1ringcentral_1_1video_1_1_end_to_end_encryption_state.html", "enumcom_1_1ringcentral_1_1video_1_1_end_to_end_encryption_state" ],
           [ "EngineEventHandler", "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html", "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler" ],
           [ "ENqiStatus", "enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html", "enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status" ],

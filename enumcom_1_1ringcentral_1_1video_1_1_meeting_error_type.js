@@ -14,6 +14,7 @@ var enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type =
     [ "JOIN_MEETING_NO_AUTHORIZED", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a061c650b23c99225b16d43e0885b02c0", null ],
     [ "JOIN_MEETING_NON_COWORKER", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a3bd41bd5400967121b6089f2a33472e5", null ],
     [ "JOIN_MEETING_NON_COWORKER_AND_NO_LOGIN", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a19d881062b81583f8136c0b6a75cfc35", null ],
+    [ "MANUALLY_CANCELLED", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a42a5be5c2f5f8f7d4b2c0f8ceff1fa03", null ],
     [ "MAX_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ad75633012eaf01a42e44a1ba58c614d2", null ],
     [ "MEDIA_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a0b74470b54053a2426c3c67930674734", null ],
     [ "MEDIA_ERROR_SESSION_NOT_EXIST", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a5587948f97411bee46146d2439a7d7b9", null ],

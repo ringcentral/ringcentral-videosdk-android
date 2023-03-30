@@ -59,5 +59,6 @@ var searchData=
   ['iswaitingroomenabled_56',['isWaitingRoomEnabled',['../classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a0e0250d02edc873869524f4655b2156d',1,'com.ringcentral.video.InstantMeetingSettings.isWaitingRoomEnabled()'],['../classcom_1_1ringcentral_1_1video_1_1_personal_meeting_settings.html#ad39d678a58f658a10d036c11ef74bcfb',1,'com.ringcentral.video.PersonalMeetingSettings.isWaitingRoomEnabled()'],['../classcom_1_1ringcentral_1_1video_1_1_schedule_meeting_settings.html#a34b6c765ceac665ab2df90a8e98899ed',1,'com.ringcentral.video.ScheduleMeetingSettings.isWaitingRoomEnabled()']]],
   ['iswaitingroomumi_57',['isWaitingRoomUmi',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a25a16d27c01525e17679bcbd7442934a',1,'com::ringcentral::video::IParticipant']]],
   ['iswaitingroomumibeforebr_58',['isWaitingRoomUmiBeforeBR',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#ab007b7e522205225d27f1bfb67e0ef59',1,'com::ringcentral::video::IParticipant']]],
-  ['iswhiteboardsharing_59',['isWhiteBoardSharing',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a73bba26087362334fdd5f096eb87f52a',1,'com::ringcentral::video::IParticipant']]]
+  ['iswebinarroom_59',['isWebinarRoom',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a16cb904c1a2189b02f20045992e6078e',1,'com::ringcentral::video::IParticipant']]],
+  ['iswhiteboardsharing_60',['isWhiteBoardSharing',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a73bba26087362334fdd5f096eb87f52a',1,'com::ringcentral::video::IParticipant']]]
 ];

@@ -14,6 +14,7 @@ var dir_157117f8a93788bda02ca041f31e64c0 =
     [ "ClosedCaptionsData.java", "_closed_captions_data_8java.html", "_closed_captions_data_8java" ],
     [ "ClosedCaptionsState.java", "_closed_captions_state_8java.html", "_closed_captions_state_8java" ],
     [ "EEchoLeakType.java", "_e_echo_leak_type_8java.html", "_e_echo_leak_type_8java" ],
+    [ "EJoinMeetingType.java", "_e_join_meeting_type_8java.html", "_e_join_meeting_type_8java" ],
     [ "EndToEndEncryptionState.java", "_end_to_end_encryption_state_8java.html", "_end_to_end_encryption_state_8java" ],
     [ "EngineEventHandler.java", "_engine_event_handler_8java.html", "_engine_event_handler_8java" ],
     [ "ENqiStatus.java", "_e_nqi_status_8java.html", "_e_nqi_status_8java" ],
