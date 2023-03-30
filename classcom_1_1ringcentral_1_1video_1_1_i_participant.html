@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.9.0</span>
+   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.10.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -217,6 +217,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ab75267f00cd2a8f8727fd9ad9b742b00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33408c5692c8d2e8bd934f63f0682003"><td class="memItemLeft" align="right" valign="top">abstract boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a33408c5692c8d2e8bd934f63f0682003">isOnlyPstnSession</a> ()</td></tr>
 <tr class="separator:a33408c5692c8d2e8bd934f63f0682003"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67d1c76f66a35fc99661c36d602dd958"><td class="memItemLeft" align="right" valign="top">abstract String&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a67d1c76f66a35fc99661c36d602dd958">getRcExtensionId</a> ()</td></tr>
+<tr class="separator:a67d1c76f66a35fc99661c36d602dd958"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a99fb6ddc7902dc67bf31283ec88afabc"><td class="memItemLeft" align="right" valign="top">abstract boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a99fb6ddc7902dc67bf31283ec88afabc">getMediaReconnection</a> ()</td></tr>
 <tr class="separator:a99fb6ddc7902dc67bf31283ec88afabc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5bb5897a767a548e32b3548f6ec14a45"><td class="memItemLeft" align="right" valign="top">abstract int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a5bb5897a767a548e32b3548f6ec14a45">getNetworkQuality</a> ()</td></tr>
@@ -259,6 +261,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4c6c3ea69698a2f3525e3bcb68a66545"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8e8180f4c94ae2bdc064a1d6a04b0d0b"><td class="memItemLeft" align="right" valign="top">abstract <a class="el" href="enumcom_1_1ringcentral_1_1video_1_1_e_echo_leak_type.html">EEchoLeakType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a8e8180f4c94ae2bdc064a1d6a04b0d0b">getEchoLeakType</a> ()</td></tr>
 <tr class="separator:a8e8180f4c94ae2bdc064a1d6a04b0d0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16cb904c1a2189b02f20045992e6078e"><td class="memItemLeft" align="right" valign="top">abstract boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a16cb904c1a2189b02f20045992e6078e">isWebinarRoom</a> ()</td></tr>
+<tr class="separator:a16cb904c1a2189b02f20045992e6078e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
@@ -988,6 +992,31 @@ Static Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">abstract String com.ringcentral.video.IParticipant.getRcAccountId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a67d1c76f66a35fc99661c36d602dd958" name="a67d1c76f66a35fc99661c36d602dd958"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67d1c76f66a35fc99661c36d602dd958">&#9670;&#160;</a></span>getRcExtensionId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">abstract String com.ringcentral.video.IParticipant.getRcExtensionId </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1813,6 +1842,31 @@ Static Public Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">abstract boolean com.ringcentral.video.IParticipant.isWaitingRoomUmiBeforeBR </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a16cb904c1a2189b02f20045992e6078e" name="a16cb904c1a2189b02f20045992e6078e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16cb904c1a2189b02f20045992e6078e">&#9670;&#160;</a></span>isWebinarRoom()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">abstract boolean com.ringcentral.video.IParticipant.isWebinarRoom </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>

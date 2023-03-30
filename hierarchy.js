@@ -14,6 +14,7 @@ var hierarchy =
     [ "com.ringcentral.video.ClosedCaptionsData", "classcom_1_1ringcentral_1_1video_1_1_closed_captions_data.html", null ],
     [ "com.ringcentral.video.ClosedCaptionsState", "enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html", null ],
     [ "com.ringcentral.video.EEchoLeakType", "enumcom_1_1ringcentral_1_1video_1_1_e_echo_leak_type.html", null ],
+    [ "com.ringcentral.video.EJoinMeetingType", "enumcom_1_1ringcentral_1_1video_1_1_e_join_meeting_type.html", null ],
     [ "com.ringcentral.video.EndToEndEncryptionState", "enumcom_1_1ringcentral_1_1video_1_1_end_to_end_encryption_state.html", null ],
     [ "com.ringcentral.video.EngineEventHandler", "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html", null ],
     [ "com.ringcentral.video.ENqiStatus", "enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html", null ],

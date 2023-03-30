@@ -12,12 +12,13 @@ var searchData=
   ['sharing_5fscreen_9',['SHARING_SCREEN',['../enumcom_1_1ringcentral_1_1video_1_1_sharing_type.html#a237c861018b73141d17f7c4f116cece8',1,'com::ringcentral::video::SharingType']]],
   ['sharing_5fview_5fcontent_10',['SHARING_VIEW_CONTENT',['../enumcom_1_1ringcentral_1_1video_1_1_sharing_type.html#a32a52e404558e777d3ebe00d4b58ccc3',1,'com::ringcentral::video::SharingType']]],
   ['signed_5fin_5fusers_11',['SIGNED_IN_USERS',['../enumcom_1_1ringcentral_1_1video_1_1_only_auth_user_join_mode.html#a15b56d7a929fbd25a10fbc8e6d42284b',1,'com::ringcentral::video::OnlyAuthUserJoinMode']]],
-  ['sip_5ftls_5ferror_12',['SIP_TLS_ERROR',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a20c0f1d23ab45e25757aa18a7307457b',1,'com::ringcentral::video::MeetingErrorType']]],
-  ['slow_5fdown_13',['SLOW_DOWN',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#ac6f63adaf26979f5e5b72a5f7f8ab136',1,'com::ringcentral::video::EReactionAction']]],
-  ['speed_5fup_14',['SPEED_UP',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#aa0fa2d4181ec9c9aa565bca7012e7036',1,'com::ringcentral::video::EReactionAction']]],
-  ['stable_15',['STABLE',['../enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html#ab2f29f298d8e81e645f7799f519c78d0',1,'com::ringcentral::video::ENqiStatus']]],
-  ['started_16',['STARTED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a16110195ecba487b42b357198c6a5f6a',1,'com::ringcentral::video::ClosedCaptionsState']]],
-  ['status_5fok_17',['STATUS_OK',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a4268a0fb0c2689ef4a7aee7f82fcc923',1,'com::ringcentral::video::MeetingErrorType']]],
-  ['stopped_18',['STOPPED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a5abcc32ad4243f4094581f94534f8c09',1,'com::ringcentral::video::ClosedCaptionsState']]],
-  ['surprised_19',['SURPRISED',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a96856d3b834cd4b0235060c41354410f',1,'com::ringcentral::video::EReactionAction']]]
+  ['sip_5fmeeting_12',['SIP_MEETING',['../enumcom_1_1ringcentral_1_1video_1_1_e_join_meeting_type.html#ae0b361c4d50e1d5d062102fea5cd7bd2',1,'com::ringcentral::video::EJoinMeetingType']]],
+  ['sip_5ftls_5ferror_13',['SIP_TLS_ERROR',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a20c0f1d23ab45e25757aa18a7307457b',1,'com::ringcentral::video::MeetingErrorType']]],
+  ['slow_5fdown_14',['SLOW_DOWN',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#ac6f63adaf26979f5e5b72a5f7f8ab136',1,'com::ringcentral::video::EReactionAction']]],
+  ['speed_5fup_15',['SPEED_UP',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#aa0fa2d4181ec9c9aa565bca7012e7036',1,'com::ringcentral::video::EReactionAction']]],
+  ['stable_16',['STABLE',['../enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html#ab2f29f298d8e81e645f7799f519c78d0',1,'com::ringcentral::video::ENqiStatus']]],
+  ['started_17',['STARTED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a16110195ecba487b42b357198c6a5f6a',1,'com::ringcentral::video::ClosedCaptionsState']]],
+  ['status_5fok_18',['STATUS_OK',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a4268a0fb0c2689ef4a7aee7f82fcc923',1,'com::ringcentral::video::MeetingErrorType']]],
+  ['stopped_19',['STOPPED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a5abcc32ad4243f4094581f94534f8c09',1,'com::ringcentral::video::ClosedCaptionsState']]],
+  ['surprised_20',['SURPRISED',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a96856d3b834cd4b0235060c41354410f',1,'com::ringcentral::video::EReactionAction']]]
 ];
