@@ -4,7 +4,6 @@ var classcom_1_1ringcentral_1_1video_1_1_rcv_engine =
     [ "create", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a9f034cf05f368e26214c362e49f6ceac", null ],
     [ "destroy", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a82dda9023162b1c0c1e0d7a3b00a1acc", null ],
     [ "getErrorType", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a8d8328161bc0ad8980fcfddc4cef4c9c", null ],
-    [ "getMeetingBridge", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a7755fa2f47f728c2726611f99d763036", null ],
     [ "getMeetingContextController", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#ad3f69d3d0ed97398d26b61d84ce34cab", null ],
     [ "getMeetingController", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#aaeb7082bff3aee1bbb7386fa4cf9721c", null ],
     [ "getPreferenceController", "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a621a0d7065ba32d34ebab6b081b8c1a3", null ],

@@ -149,12 +149,11 @@ var NAVTREEINDEX0 =
 "classcom_1_1ringcentral_1_1video_1_1_closed_captions_data.html#a8afc64befec2eb3a5b76f4931cb65807":[7,0,0,0,0,11,0],
 "classcom_1_1ringcentral_1_1video_1_1_closed_captions_data.html#ac60ccfe38dd2d31ba449d619029ddabd":[7,0,0,0,0,11,2],
 "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html":[7,0,0,0,0,16],
-"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a1e77272c7cdb45e40d7a7c2e68c23d25":[7,0,0,0,0,16,5],
-"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a2f8f95ac359ef75e48ae615695f8310d":[7,0,0,0,0,16,3],
+"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a1e77272c7cdb45e40d7a7c2e68c23d25":[7,0,0,0,0,16,4],
+"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a2f8f95ac359ef75e48ae615695f8310d":[7,0,0,0,0,16,2],
 "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a37e565d7b7c67f11d2d67eb776a86a6e":[7,0,0,0,0,16,1],
-"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a38ffd45d1919fc45f59955202249652a":[7,0,0,0,0,16,2],
-"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a3fc04ce3b89c3f581819cf27c54f161d":[7,0,0,0,0,16,4],
-"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a934227cf53e5cd3f2085ee13e36c0cac":[7,0,0,0,0,16,6],
+"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a3fc04ce3b89c3f581819cf27c54f161d":[7,0,0,0,0,16,3],
+"classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#a934227cf53e5cd3f2085ee13e36c0cac":[7,0,0,0,0,16,5],
 "classcom_1_1ringcentral_1_1video_1_1_engine_event_handler.html#ae926ee93c7d8d4ab91fd4b66b20b2ac5":[7,0,0,0,0,16,0],
 "classcom_1_1ringcentral_1_1video_1_1_i_participant.html":[7,0,0,0,0,25],
 "classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a032f4f32c2e5d21af2b3d8f3915e96bf":[7,0,0,0,0,25,66],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a531d49802c09831faea48d2d7215bcb6":[7,0,0,0,0,24,20],
 "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a5e3fcf0d44c13cc4369e52ea1187fa97":[7,0,0,0,0,24,4],
 "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a60594dd2e69c28676169b3c994ec8cb1":[7,0,0,0,0,24,19],
-"classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a6a0fb57cd0ea2f0561dca85e09aef405":[7,0,0,0,0,24,12]
+"classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a6a0fb57cd0ea2f0561dca85e09aef405":[7,0,0,0,0,24,12],
+"classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a6a3e999a310365be7d9109f057fb4b43":[7,0,0,0,0,24,7]
 };
