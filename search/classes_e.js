@@ -6,5 +6,7 @@ var searchData=
   ['videodeviceeventhandler_3',['VideoDeviceEventHandler',['../classcom_1_1ringcentral_1_1video_1_1_video_device_event_handler.html',1,'com::ringcentral::video']]],
   ['videodevicemanager_4',['VideoDeviceManager',['../classcom_1_1ringcentral_1_1video_1_1_video_device_manager.html',1,'com::ringcentral::video']]],
   ['videoeventhandler_5',['VideoEventHandler',['../classcom_1_1ringcentral_1_1video_1_1_video_event_handler.html',1,'com::ringcentral::video']]],
-  ['videoprocessor_6',['VideoProcessor',['../classcom_1_1ringcentral_1_1video_1_1_video_processor.html',1,'com::ringcentral::video']]]
+  ['videoprocessor_6',['VideoProcessor',['../classcom_1_1ringcentral_1_1video_1_1_video_processor.html',1,'com::ringcentral::video']]],
+  ['virtualbackgroundconfig_7',['VirtualBackgroundConfig',['../classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html',1,'com::ringcentral::video']]],
+  ['virtualbackgroundtype_8',['VirtualBackgroundType',['../enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html',1,'com::ringcentral::video']]]
 ];

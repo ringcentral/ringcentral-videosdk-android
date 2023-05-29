@@ -12,5 +12,6 @@ var searchData=
   ['disableendtoendencryption_9',['disableEndToEndEncryption',['../classcom_1_1ringcentral_1_1video_1_1_meeting_controller.html#a51a505d7eae4a2368e5a28c8566154ae',1,'com::ringcentral::video::MeetingController']]],
   ['disablefpsreduction_10',['disableFpsReduction',['../classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html#a39b3fe42cc75ccfea5e2ebce8e32911c',1,'com::ringcentral::video::RcvTextureViewRenderer']]],
   ['disablespeakerphone_11',['disableSpeakerphone',['../classcom_1_1ringcentral_1_1video_1_1_audio_controller.html#a229b2fc6cf5d8e3909f987f610edfc0e',1,'com::ringcentral::video::AudioController']]],
-  ['displayname_12',['displayName',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a054bc30af04170b347ccd0ca86651d0e',1,'com::ringcentral::video::IParticipant']]]
+  ['disablevirtualbackground_12',['disableVirtualBackground',['../classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a2f84386c32a10ad3c9638e9727ea2ee6',1,'com::ringcentral::video::VideoController']]],
+  ['displayname_13',['displayName',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a054bc30af04170b347ccd0ca86651d0e',1,'com::ringcentral::video::IParticipant']]]
 ];

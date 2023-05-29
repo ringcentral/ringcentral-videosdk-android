@@ -17,5 +17,9 @@ var searchData=
   ['videolocalmute_14',['videoLocalMute',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#afddd2b984929250c4a3b27008c775031',1,'com::ringcentral::video::IParticipant']]],
   ['videoprocessor_15',['VideoProcessor',['../classcom_1_1ringcentral_1_1video_1_1_video_processor.html',1,'com::ringcentral::video']]],
   ['videoprocessor_2ejava_16',['VideoProcessor.java',['../_video_processor_8java.html',1,'']]],
-  ['videoservermute_17',['videoServerMute',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a30eb68c43593f7524ba0e7cb4e227355',1,'com::ringcentral::video::IParticipant']]]
+  ['videoservermute_17',['videoServerMute',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#a30eb68c43593f7524ba0e7cb4e227355',1,'com::ringcentral::video::IParticipant']]],
+  ['virtualbackgroundconfig_18',['VirtualBackgroundConfig',['../classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html',1,'com::ringcentral::video']]],
+  ['virtualbackgroundconfig_2ejava_19',['VirtualBackgroundConfig.java',['../_virtual_background_config_8java.html',1,'']]],
+  ['virtualbackgroundtype_20',['VirtualBackgroundType',['../enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html',1,'com::ringcentral::video']]],
+  ['virtualbackgroundtype_2ejava_21',['VirtualBackgroundType.java',['../_virtual_background_type_8java.html',1,'']]]
 ];

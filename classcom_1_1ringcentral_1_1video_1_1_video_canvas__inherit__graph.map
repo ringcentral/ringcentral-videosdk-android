@@ -1,4 +1,5 @@
 <map id="com.ringcentral.video.VideoCanvas" name="com.ringcentral.video.VideoCanvas">
-<area shape="rect" id="node1" title=" " alt="" coords="17,5,245,189"/>
-<area shape="rect" id="node2" href="$classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html" title=" " alt="" coords="5,237,257,720"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,5,236,211"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html" title=" " alt="" coords="5,259,248,864"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,225,129,259,124,259,124,225"/>
 </map>

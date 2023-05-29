@@ -2,7 +2,7 @@ var searchData=
 [
   ['oauthoptions_0',['OauthOptions',['../classcom_1_1ringcentral_1_1video_1_1_oauth_options.html',1,'com::ringcentral::video']]],
   ['oauthoptions_2ejava_1',['OauthOptions.java',['../_oauth_options_8java.html',1,'']]],
-  ['off_2',['OFF',['../enumcom_1_1ringcentral_1_1video_1_1_only_auth_user_join_mode.html#a49ef15aebaee101e15f5815d8d50170f',1,'com.ringcentral.video.OnlyAuthUserJoinMode.OFF()'],['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a77ff739188e4b70440498a29348dac61',1,'com.ringcentral.video.PlayTonesMode.OFF()']]],
+  ['off_2',['OFF',['../enumcom_1_1ringcentral_1_1video_1_1_only_auth_user_join_mode.html#a49ef15aebaee101e15f5815d8d50170f',1,'com.ringcentral.video.OnlyAuthUserJoinMode.OFF'],['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a77ff739188e4b70440498a29348dac61',1,'com.ringcentral.video.PlayTonesMode.OFF']]],
   ['on_3',['ON',['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a7fbe35d32d8408e8f3c56def38a4484f',1,'com::ringcentral::video::PlayTonesMode']]],
   ['onactivespeakeruserchanged_4',['onActiveSpeakerUserChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#a1ef18458ba60f38d94c8330f7823cb9a',1,'com::ringcentral::video::MeetingUserEventHandler']]],
   ['onactivevideouserchanged_5',['onActiveVideoUserChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#acea06e44e161a655825ef0b72a4d050d',1,'com::ringcentral::video::MeetingUserEventHandler']]],
@@ -24,7 +24,7 @@ var searchData=
   ['oninitialize_21',['onInitialize',['../classcom_1_1ringcentral_1_1video_1_1_audio_processor.html#a0654017676217d60d9337b02bad6e04b',1,'com.ringcentral.video.AudioProcessor.onInitialize()'],['../classcom_1_1ringcentral_1_1video_1_1_video_processor.html#a6ad10c156c38609144fc8785d2ab84c8',1,'com.ringcentral.video.VideoProcessor.onInitialize()']]],
   ['onlayout_22',['onLayout',['../classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html#ae39da11dc2cb28af84c3d4dec1cd91d2',1,'com::ringcentral::video::RcvTextureViewRenderer']]],
   ['onlivetranscriptiondatachanged_23',['onLiveTranscriptionDataChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_event_handler.html#a5273154efff30417258b637d9be6ed52',1,'com::ringcentral::video::MeetingEventHandler']]],
-  ['onlivetranscriptionhistorychanged_24',['onLiveTranscriptionHistoryChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_event_handler.html#a376511c7c3d72c4b533f434918194c6b',1,'com::ringcentral::video::MeetingEventHandler']]],
+  ['onlivetranscriptionhistorychanged_24',['onLiveTranscriptionHistoryChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_event_handler.html#acd072fe5fc2f95a1eed84942bc203a57',1,'com::ringcentral::video::MeetingEventHandler']]],
   ['onlivetranscriptionsettingchanged_25',['onLiveTranscriptionSettingChanged',['../classcom_1_1ringcentral_1_1video_1_1_meeting_event_handler.html#a1dc4e8c44a061a4f6a8217635ccc5556',1,'com::ringcentral::video::MeetingEventHandler']]],
   ['onlocalaudiomutechanged_26',['onLocalAudioMuteChanged',['../classcom_1_1ringcentral_1_1video_1_1_audio_event_handler.html#a232eb0b28bc40a4361b8f381d3d80456',1,'com::ringcentral::video::AudioEventHandler']]],
   ['onlocalaudiostats_27',['onLocalAudioStats',['../classcom_1_1ringcentral_1_1video_1_1_meeting_statistic_event_handler.html#ad098db9af733e68d1d2e0d9519d20e11',1,'com::ringcentral::video::MeetingStatisticEventHandler']]],

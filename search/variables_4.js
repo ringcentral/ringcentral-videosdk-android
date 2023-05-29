@@ -47,6 +47,6 @@ var searchData=
   ['err_5ftoken_5fexpired_44',['ERR_TOKEN_EXPIRED',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#af93ff6f10cea8e2cf0d876791a79c3fc',1,'com::ringcentral::video::ErrorCodeType']]],
   ['err_5fupdating_5fpersonal_5fmeeting_5fsettings_45',['ERR_UPDATING_PERSONAL_MEETING_SETTINGS',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a8731144201e19404b542d01e21d89d91',1,'com::ringcentral::video::ErrorCodeType']]],
   ['err_5fwaiting_5fhost_5fjoin_5ffirst_46',['ERR_WAITING_HOST_JOIN_FIRST',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a98a4729b561fe7ab2f57d992994b7bfe',1,'com::ringcentral::video::ErrorCodeType']]],
-  ['everyone_47',['EVERYONE',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE()'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE()']]],
+  ['everyone_47',['EVERYONE',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE']]],
   ['exit_5fonly_48',['EXIT_ONLY',['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a6c3ef6d930a8722be9894855fe0c0651',1,'com::ringcentral::video::PlayTonesMode']]]
 ];

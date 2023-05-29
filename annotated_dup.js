@@ -33,10 +33,8 @@ var annotated_dup =
           [ "LiveTranscriptionData", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_data.html", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_data" ],
           [ "LiveTranscriptionDataType", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_data_type.html", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_data_type" ],
           [ "LiveTranscriptionDownloadCopy", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_download_copy.html", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_download_copy" ],
-          [ "LiveTranscriptionPhraseId", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_phrase_id.html", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_phrase_id" ],
           [ "LiveTranscriptionsController", "classcom_1_1ringcentral_1_1video_1_1_live_transcriptions_controller.html", "classcom_1_1ringcentral_1_1video_1_1_live_transcriptions_controller" ],
           [ "LiveTranscriptionSetting", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_setting.html", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_setting" ],
-          [ "LiveTranscriptionUpdateHistoryType", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_update_history_type.html", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_update_history_type" ],
           [ "LiveTranscriptionVisibility", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_visibility.html", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_visibility" ],
           [ "LocalAudioError", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_error.html", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_error" ],
           [ "LocalAudioMuteReason", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_mute_reason.html", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_mute_reason" ],
@@ -91,6 +89,8 @@ var annotated_dup =
           [ "VideoDeviceManager", "classcom_1_1ringcentral_1_1video_1_1_video_device_manager.html", "classcom_1_1ringcentral_1_1video_1_1_video_device_manager" ],
           [ "VideoEventHandler", "classcom_1_1ringcentral_1_1video_1_1_video_event_handler.html", "classcom_1_1ringcentral_1_1video_1_1_video_event_handler" ],
           [ "VideoProcessor", "classcom_1_1ringcentral_1_1video_1_1_video_processor.html", "classcom_1_1ringcentral_1_1video_1_1_video_processor" ],
+          [ "VirtualBackgroundConfig", "classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html", "classcom_1_1ringcentral_1_1video_1_1_virtual_background_config" ],
+          [ "VirtualBackgroundType", "enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html", "enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type" ],
           [ "WaitingRoomMode", "enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html", "enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode" ]
         ] ]
       ] ]

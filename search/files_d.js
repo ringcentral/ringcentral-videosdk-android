@@ -6,5 +6,7 @@ var searchData=
   ['videodeviceeventhandler_2ejava_3',['VideoDeviceEventHandler.java',['../_video_device_event_handler_8java.html',1,'']]],
   ['videodevicemanager_2ejava_4',['VideoDeviceManager.java',['../_video_device_manager_8java.html',1,'']]],
   ['videoeventhandler_2ejava_5',['VideoEventHandler.java',['../_video_event_handler_8java.html',1,'']]],
-  ['videoprocessor_2ejava_6',['VideoProcessor.java',['../_video_processor_8java.html',1,'']]]
+  ['videoprocessor_2ejava_6',['VideoProcessor.java',['../_video_processor_8java.html',1,'']]],
+  ['virtualbackgroundconfig_2ejava_7',['VirtualBackgroundConfig.java',['../_virtual_background_config_8java.html',1,'']]],
+  ['virtualbackgroundtype_2ejava_8',['VirtualBackgroundType.java',['../_virtual_background_type_8java.html',1,'']]]
 ];

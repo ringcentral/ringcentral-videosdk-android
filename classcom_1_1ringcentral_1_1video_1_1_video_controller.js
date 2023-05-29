@@ -1,5 +1,6 @@
 var classcom_1_1ringcentral_1_1video_1_1_video_controller =
 [
+    [ "disableVirtualBackground", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a2f84386c32a10ad3c9638e9727ea2ee6", null ],
     [ "isMuted", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#aed39cece00ae3f82d979c45b65648773", null ],
     [ "isPreviewMode", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a3dff360fb06c17c7ba28a44f636794f9", null ],
     [ "muteAllRemoteVideoStreams", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a81a9845705618b0ec5d65e29f7c03656", null ],
@@ -15,6 +16,7 @@ var classcom_1_1ringcentral_1_1video_1_1_video_controller =
     [ "startPreview", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a662a6c39e0af515786e2d29fe9eef12f", null ],
     [ "stopPreview", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a2667676eee46fd451cb22483b098a989", null ],
     [ "switchCamera", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a794fcd4099fc3c7076c65ce19a1dc7bf", null ],
+    [ "switchVirtualBackground", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a873f2de57e1aac2d36d019dad9dde018", null ],
     [ "unmuteAllRemoteVideoStreams", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a7d5109a8bf911d76376b81a9387daf5a", null ],
     [ "unmuteLocalVideoStream", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a0f235040c3c087bbfc6d0b951eccae28", null ],
     [ "unmuteRemoteVideoStream", "classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a0adc220f46e937d0d85126b2dd532a5a", null ],

@@ -30,10 +30,8 @@ var dir_157117f8a93788bda02ca041f31e64c0 =
     [ "LiveTranscriptionData.java", "_live_transcription_data_8java.html", "_live_transcription_data_8java" ],
     [ "LiveTranscriptionDataType.java", "_live_transcription_data_type_8java.html", "_live_transcription_data_type_8java" ],
     [ "LiveTranscriptionDownloadCopy.java", "_live_transcription_download_copy_8java.html", "_live_transcription_download_copy_8java" ],
-    [ "LiveTranscriptionPhraseId.java", "_live_transcription_phrase_id_8java.html", "_live_transcription_phrase_id_8java" ],
     [ "LiveTranscriptionsController.java", "_live_transcriptions_controller_8java.html", "_live_transcriptions_controller_8java" ],
     [ "LiveTranscriptionSetting.java", "_live_transcription_setting_8java.html", "_live_transcription_setting_8java" ],
-    [ "LiveTranscriptionUpdateHistoryType.java", "_live_transcription_update_history_type_8java.html", "_live_transcription_update_history_type_8java" ],
     [ "LiveTranscriptionVisibility.java", "_live_transcription_visibility_8java.html", "_live_transcription_visibility_8java" ],
     [ "LocalAudioError.java", "_local_audio_error_8java.html", "_local_audio_error_8java" ],
     [ "LocalAudioMuteReason.java", "_local_audio_mute_reason_8java.html", "_local_audio_mute_reason_8java" ],
@@ -88,5 +86,7 @@ var dir_157117f8a93788bda02ca041f31e64c0 =
     [ "VideoDeviceManager.java", "_video_device_manager_8java.html", "_video_device_manager_8java" ],
     [ "VideoEventHandler.java", "_video_event_handler_8java.html", "_video_event_handler_8java" ],
     [ "VideoProcessor.java", "_video_processor_8java.html", "_video_processor_8java" ],
+    [ "VirtualBackgroundConfig.java", "_virtual_background_config_8java.html", "_virtual_background_config_8java" ],
+    [ "VirtualBackgroundType.java", "_virtual_background_type_8java.html", "_virtual_background_type_8java" ],
     [ "WaitingRoomMode.java", "_waiting_room_mode_8java.html", "_waiting_room_mode_8java" ]
 ];

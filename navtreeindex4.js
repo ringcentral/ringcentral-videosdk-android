@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"functions_func_g.html":[7,3,1,6],
 "functions_func_h.html":[7,3,1,7],
 "functions_func_i.html":[7,3,1,8],
 "functions_func_j.html":[7,3,1,9],
@@ -27,8 +26,8 @@ var NAVTREEINDEX4 =
 "functions_t.html":[7,3,0,18],
 "functions_u.html":[7,3,0,19],
 "functions_v.html":[7,3,0,20],
-"functions_vars.html":[7,3,2,0],
 "functions_vars.html":[7,3,2],
+"functions_vars.html":[7,3,2,0],
 "functions_vars_b.html":[7,3,2,1],
 "functions_vars_c.html":[7,3,2,2],
 "functions_vars_d.html":[7,3,2,3],
@@ -58,10 +57,10 @@ var NAVTREEINDEX4 =
 "index.html#autotoc_md4":[3],
 "index.html#autotoc_md5":[4],
 "index.html#autotoc_md6":[5],
-"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_first_frame_listener.html":[7,0,0,0,0,66,0],
-"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_first_frame_listener.html#a0e742d3d6a96cced4338e0558ca1f076":[7,0,0,0,0,66,0,0],
-"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_frame_resolution_change_listener.html":[7,0,0,0,0,66,1],
-"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_frame_resolution_change_listener.html#ab7e0af66bbb234d27b603c0880115832":[7,0,0,0,0,66,1,0],
+"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_first_frame_listener.html":[7,0,0,0,0,64,0],
+"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_first_frame_listener.html#a0e742d3d6a96cced4338e0558ca1f076":[7,0,0,0,0,64,0,0],
+"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_frame_resolution_change_listener.html":[7,0,0,0,0,64,1],
+"interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_frame_resolution_change_listener.html#ab7e0af66bbb234d27b603c0880115832":[7,0,0,0,0,64,1,0],
 "namespaces.html":[6,0],
 "pages.html":[]
 };

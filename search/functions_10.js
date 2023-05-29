@@ -65,5 +65,6 @@ var searchData=
   ['stopsharing_62',['stopSharing',['../classcom_1_1ringcentral_1_1video_1_1_sharing_controller.html#a177ce7f50a07a793f38e30856ce4abd2',1,'com::ringcentral::video::SharingController']]],
   ['switchcamera_63',['switchCamera',['../classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a794fcd4099fc3c7076c65ce19a1dc7bf',1,'com::ringcentral::video::VideoController']]],
   ['switchsharecamera_64',['switchShareCamera',['../classcom_1_1ringcentral_1_1video_1_1_sharing_controller.html#a863a61b544c0443eff8d0944a1e75d8b',1,'com::ringcentral::video::SharingController']]],
-  ['switchvideotrack_65',['switchVideoTrack',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#ad6dc01eaf3a7e23640e7ba513f0b28a1',1,'com::ringcentral::video::IParticipant']]]
+  ['switchvideotrack_65',['switchVideoTrack',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#ad6dc01eaf3a7e23640e7ba513f0b28a1',1,'com::ringcentral::video::IParticipant']]],
+  ['switchvirtualbackground_66',['switchVirtualBackground',['../classcom_1_1ringcentral_1_1video_1_1_video_controller.html#a873f2de57e1aac2d36d019dad9dde018',1,'com::ringcentral::video::VideoController']]]
 ];

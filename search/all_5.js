@@ -72,6 +72,6 @@ var searchData=
   ['errorcodetype_2ejava_69',['ErrorCodeType.java',['../_error_code_type_8java.html',1,'']]],
   ['estreamactivity_70',['EStreamActivity',['../enumcom_1_1ringcentral_1_1video_1_1_e_stream_activity.html',1,'com::ringcentral::video']]],
   ['estreamactivity_2ejava_71',['EStreamActivity.java',['../_e_stream_activity_8java.html',1,'']]],
-  ['everyone_72',['EVERYONE',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE()'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE()']]],
+  ['everyone_72',['EVERYONE',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE']]],
   ['exit_5fonly_73',['EXIT_ONLY',['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a6c3ef6d930a8722be9894855fe0c0651',1,'com::ringcentral::video::PlayTonesMode']]]
 ];

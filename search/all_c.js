@@ -6,7 +6,7 @@ var searchData=
   ['media_5ferror_3',['MEDIA_ERROR',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a0b74470b54053a2426c3c67930674734',1,'com::ringcentral::video::MeetingErrorType']]],
   ['media_5ferror_5fsession_5fnot_5fexist_4',['MEDIA_ERROR_SESSION_NOT_EXIST',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a5587948f97411bee46146d2439a7d7b9',1,'com::ringcentral::video::MeetingErrorType']]],
   ['media_5freset_5',['MEDIA_RESET',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a72c0c02b683beba0a9f0499c4e2788c6',1,'com::ringcentral::video::MeetingErrorType']]],
-  ['medium_6',['MEDIUM',['../enumcom_1_1ringcentral_1_1video_1_1_nqi_state.html#a7a0b5ffd5e89d1e25a7f7b8d5d6dd0ac',1,'com.ringcentral.video.NqiState.MEDIUM()'],['../enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html#a70f917532d374f5c858e995f51a9d923',1,'com.ringcentral.video.ENqiStatus.MEDIUM()']]],
+  ['medium_6',['MEDIUM',['../enumcom_1_1ringcentral_1_1video_1_1_nqi_state.html#a7a0b5ffd5e89d1e25a7f7b8d5d6dd0ac',1,'com.ringcentral.video.NqiState.MEDIUM'],['../enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html#a70f917532d374f5c858e995f51a9d923',1,'com.ringcentral.video.ENqiStatus.MEDIUM']]],
   ['meeting_5fin_5fbr_5ftransition_7',['MEETING_IN_BR_TRANSITION',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#acefa53b936c7b7639992dc03e82c9d60',1,'com::ringcentral::video::MeetingErrorType']]],
   ['meetingapiexecuteresult_8',['MeetingApiExecuteResult',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_api_execute_result.html',1,'com::ringcentral::video']]],
   ['meetingapiexecuteresult_2ejava_9',['MeetingApiExecuteResult.java',['../_meeting_api_execute_result_8java.html',1,'']]],

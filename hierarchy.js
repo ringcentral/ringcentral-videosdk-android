@@ -32,10 +32,8 @@ var hierarchy =
     [ "com.ringcentral.video.LiveTranscriptionData", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_data.html", null ],
     [ "com.ringcentral.video.LiveTranscriptionDataType", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_data_type.html", null ],
     [ "com.ringcentral.video.LiveTranscriptionDownloadCopy", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_download_copy.html", null ],
-    [ "com.ringcentral.video.LiveTranscriptionPhraseId", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_phrase_id.html", null ],
     [ "com.ringcentral.video.LiveTranscriptionsController", "classcom_1_1ringcentral_1_1video_1_1_live_transcriptions_controller.html", null ],
     [ "com.ringcentral.video.LiveTranscriptionSetting", "classcom_1_1ringcentral_1_1video_1_1_live_transcription_setting.html", null ],
-    [ "com.ringcentral.video.LiveTranscriptionUpdateHistoryType", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_update_history_type.html", null ],
     [ "com.ringcentral.video.LiveTranscriptionVisibility", "enumcom_1_1ringcentral_1_1video_1_1_live_transcription_visibility.html", null ],
     [ "com.ringcentral.video.LocalAudioError", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_error.html", null ],
     [ "com.ringcentral.video.LocalAudioMuteReason", "enumcom_1_1ringcentral_1_1video_1_1_local_audio_mute_reason.html", null ],
@@ -91,6 +89,8 @@ var hierarchy =
     [ "com.ringcentral.video.VideoDeviceManager", "classcom_1_1ringcentral_1_1video_1_1_video_device_manager.html", null ],
     [ "com.ringcentral.video.VideoEventHandler", "classcom_1_1ringcentral_1_1video_1_1_video_event_handler.html", null ],
     [ "com.ringcentral.video.VideoProcessor", "classcom_1_1ringcentral_1_1video_1_1_video_processor.html", null ],
+    [ "com.ringcentral.video.VirtualBackgroundConfig", "classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html", null ],
+    [ "com.ringcentral.video.VirtualBackgroundType", "enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html", null ],
     [ "com.ringcentral.video.WaitingRoomMode", "enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html", null ],
     [ "FrameLayout", null, [
       [ "com.ringcentral.video.RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html", null ]

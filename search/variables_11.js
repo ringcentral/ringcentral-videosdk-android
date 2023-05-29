@@ -20,6 +20,5 @@ var searchData=
   ['tap_5funexpected_5fresponse_5ferror_17',['TAP_UNEXPECTED_RESPONSE_ERROR',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a7c7f559ed2993c9d289613f58f1eec38',1,'com::ringcentral::video::MeetingErrorType']]],
   ['tap_5funknown_5ferror_18',['TAP_UNKNOWN_ERROR',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#abbb96cfaa4fb9e7a98720c3fe53f5e6e',1,'com::ringcentral::video::MeetingErrorType']]],
   ['tap_5fwaiting_5fhost_5fconference_19',['TAP_WAITING_HOST_CONFERENCE',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ab98ca3b02f0ae5126f4b40991ba77018',1,'com::ringcentral::video::MeetingErrorType']]],
-  ['thumb_5fup_20',['THUMB_UP',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a66ed6371e713812ad7eafd66525dc7bd',1,'com::ringcentral::video::EReactionAction']]],
-  ['top_21',['TOP',['../enumcom_1_1ringcentral_1_1video_1_1_live_transcription_update_history_type.html#acf996b62fd3990410d5d3b5cf2189a77',1,'com::ringcentral::video::LiveTranscriptionUpdateHistoryType']]]
+  ['thumb_5fup_20',['THUMB_UP',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a66ed6371e713812ad7eafd66525dc7bd',1,'com::ringcentral::video::EReactionAction']]]
 ];
