@@ -30,7 +30,10 @@ var NAVTREE =
     [ "How To Use Video SDK With Android", "index.html#autotoc_md3", null ],
     [ "Getting Started", "index.html#autotoc_md4", null ],
     [ "Known Issues", "index.html#autotoc_md5", null ],
-    [ "Contact Us", "index.html#autotoc_md6", null ],
+    [ "Reporting usage data", "index.html#autotoc_md6", [
+      [ "What information do we transmit", "index.html#autotoc_md7", null ]
+    ] ],
+    [ "Contact Us", "index.html#autotoc_md8", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", null ]
     ] ],
@@ -54,9 +57,9 @@ var NAVTREEINDEX =
 [
 "_audio_consumer_8java.html",
 "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a6ec672e61f8c16a20a480f15956e987b",
-"classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html#a47de735609d996cd073a497959a57ec9",
-"enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#aa9646bbe414f49f9365152021d743725",
-"functions_func_h.html"
+"classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html#a12b5b484925790d21790b56a9a3ba780",
+"enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a8b61b7918956ba4e1d7ae7872decbb7c",
+"enumcom_1_1ringcentral_1_1video_1_1_recording_state.html#a586993c5f5edb68da951f2cc1c14a336"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

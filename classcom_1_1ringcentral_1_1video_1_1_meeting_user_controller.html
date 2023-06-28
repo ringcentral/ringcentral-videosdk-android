@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -112,7 +112,7 @@ $(document).ready(function(){initNavTree('classcom_1_1ringcentral_1_1video_1_1_m
 <div class="dynheader">
 Collaboration diagram for com.ringcentral.video.MeetingUserController:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller__coll__graph.svg" width="282" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller__coll__graph.svg" width="282" height="356"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -143,6 +143,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a595b4efe4f78aa3da6727a1cb7c98fa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af4869a83b709393ce5144307dc9f9d9b"><td class="memItemLeft" align="right" valign="top">abstract long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#af4869a83b709393ce5144307dc9f9d9b">removeUser</a> (long uid)</td></tr>
 <tr class="separator:af4869a83b709393ce5144307dc9f9d9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8d49cd8c06de785d50ebe2df3205a9d"><td class="memItemLeft" align="right" valign="top">abstract long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#ad8d49cd8c06de785d50ebe2df3205a9d">callOut</a> (String countryCode, String phone)</td></tr>
+<tr class="separator:ad8d49cd8c06de785d50ebe2df3205a9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a247f3a4a7bc142e4082092c49cadf81b"><td class="memItemLeft" align="right" valign="top">abstract long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a247f3a4a7bc142e4082092c49cadf81b">deleteDial</a> (String id)</td></tr>
+<tr class="separator:a247f3a4a7bc142e4082092c49cadf81b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <b>MeetingUserController</b> class is a managing class to control the meeting user related functions and states in an active meeting, such as admitting or denying the participants who are in the waiting room and assigning moderators, etc. </p>
@@ -245,6 +249,85 @@ Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>0 means the action succeeds or fails otherwise </dd></dl>
+
+</div>
+</div>
+<a id="ad8d49cd8c06de785d50ebe2df3205a9d" name="ad8d49cd8c06de785d50ebe2df3205a9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8d49cd8c06de785d50ebe2df3205a9d">&#9670;&#160;</a></span>callOut()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">abstract long com.ringcentral.video.MeetingUserController.callOut </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>countryCode</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>phone</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Invite by phone number</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">countryCode</td><td>should be pure number format string for country code</td></tr>
+    <tr><td class="paramname">phone</td><td>should be pure number format string for phone number</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>return 0 means the action succeeds or fails otherwise </p>
+
+</div>
+</div>
+<a id="a247f3a4a7bc142e4082092c49cadf81b" name="a247f3a4a7bc142e4082092c49cadf81b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a247f3a4a7bc142e4082092c49cadf81b">&#9670;&#160;</a></span>deleteDial()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">abstract long com.ringcentral.video.MeetingUserController.deleteDial </td>
+          <td>(</td>
+          <td class="paramtype">String&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Hangup the dial by id</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>The id of the callout</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>return 0 means the action succeeds or fails otherwise </p>
 
 </div>
 </div>

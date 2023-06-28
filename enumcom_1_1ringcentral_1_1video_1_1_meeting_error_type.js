@@ -54,6 +54,7 @@ var enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type =
     [ "TAP_WAITING_HOST_CONFERENCE", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ab98ca3b02f0ae5126f4b40991ba77018", null ],
     [ "VAS_CLOSED_CONNECTION_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ae321e1937f0037a2468b33a70021a498", null ],
     [ "VAS_PARSE_MESSAGE_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a26fb685eb4e70cfd6b10d2eb95975bd7", null ],
+    [ "VCG_CONNECT_FAILED", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a3327b034a090171f66fb2c8dc5e2fc96", null ],
     [ "WAITING_ROOM", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#aea5239e0db7c3827d46d8c56c1cfb4dd", null ],
     [ "WEBINAR_ERROR_ATTENDEE_NEED_SIGN_IN", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a1d907222e2e32a67e55ee603030ec9df", null ],
     [ "WEBINAR_ERROR_CAPACITY_FULL", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a4fbabca02e9a959b131f7192b806d5d2", null ],
@@ -67,6 +68,7 @@ var enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type =
     [ "WEBINAR_ERROR_PASSWORD_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ac8869db1332effc1c497e653e3738bb6", null ],
     [ "WEBINAR_ERROR_RESTRICT", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a5dfaaf818b0dad49868800502fa62cea", null ],
     [ "WEBINAR_ERROR_RESTRICT_EMAIL_INVALID", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a5e338bbb3ac4cee7e5a82deccc0eac51", null ],
+    [ "WEBINAR_ERROR_RESTRICT_USE_OTHER_LINK", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a43bb1f717156d0db32836b91846ad44f", null ],
     [ "WEBINAR_ERROR_ROLE_NOT_SUPPORT", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a0110386a5081698679e0034cf3dec696", null ],
     [ "WEBINAR_ERROR_SERVER_ERROR", "enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#ae468b5c603afd2f4d9b86b0a5620bce5", null ]
 ];

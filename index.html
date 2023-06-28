@@ -37,7 +37,7 @@ MathJax.Hub.Config({
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.12.0</span>
+   <div id="projectname">RingCentral Video Client SDK for Android<span id="projectnumber">&#160;0.13.0</span>
    </div>
   </td>
     <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -193,6 +193,24 @@ Known Issues</h1>
 <li>Some interfaces are not supported yet in the current beta version, they are being actively developed. For example, the breakout room, etc.</li>
 </ul>
 <h1><a class="anchor" id="autotoc_md6"></a>
+Reporting usage data</h1>
+<p>We have included in the SDK the ability to send important usage data back to RingCentral systems to help product teams improve the product, monitor for issues, and better understand how developers and users are engaging with the products this SDK powers. This is enabled by default.</p>
+<p>We understand that some may prefer this information not be transmitted to RingCentral via the SDK. To opt-out of this reporting, please make the following code change(s): </p><div class="fragment"><div class="line">new RcvEngine({</div>
+<div class="line">    clientId,</div>
+<div class="line">    clientSecret,</div>
+<div class="line">    isShareUsageData: false</div>
+<div class="line">})</div>
+</div><!-- fragment --><h2><a class="anchor" id="autotoc_md7"></a>
+What information do we transmit</h2>
+<p>When enabled, our reporting system transmits data when certain events are triggered. Accompanying each event is the following metadata:</p><ul>
+<li>Client ID</li>
+<li>Anonymized account ID</li>
+<li>SDK user-agent (name and version)</li>
+<li>Event performed</li>
+<li>Other event-specific meta data as needed</li>
+</ul>
+<p>We do not transmit any personal data or personally identifiable information.</p>
+<h1><a class="anchor" id="autotoc_md8"></a>
 Contact Us</h1>
 <ul>
 <li>Dev Support &amp; Feedback: For feedback, questions or suggestions around SDK please email <a href="#" onclick="location.href='mai'+'lto:'+'vid'+'eo'+'sdk'+'fe'+'edb'+'ac'+'k@r'+'in'+'gce'+'nt'+'ral'+'.c'+'om'; return false;">video<span class="obfuscator">.nosp@m.</span>sdkf<span class="obfuscator">.nosp@m.</span>eedba<span class="obfuscator">.nosp@m.</span>ck@r<span class="obfuscator">.nosp@m.</span>ingce<span class="obfuscator">.nosp@m.</span>ntra<span class="obfuscator">.nosp@m.</span>l.com</a> </li>
