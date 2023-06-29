@@ -167,8 +167,8 @@ How To Use Video SDK With Android</h1>
 <h1><a class="anchor" id="autotoc_md4"></a>
 Getting Started</h1>
 <ol type="1">
-<li><p class="startli">Use your client ID and client secret to initial the RCV client SDK engine as code below, the client ID and client secret are required.</p>
-<div class="fragment"><div class="line">RcvEngine.create(this.getApplicationContext(), &lt;#client ID#&gt;, &lt;#client secret#&gt;);</div>
+<li><p class="startli">Use your client ID and client secret to initial the RCV client SDK engine as code below, the client ID and client secret are required, the isShareUsageData to allow reporting usage data or not.</p>
+<div class="fragment"><div class="line">RcvEngine.create(this.getApplicationContext(), &lt;#client ID#&gt;, &lt;#client secret#&gt;, &lt;#isShareUsageData#&gt;);</div>
 </div><!-- fragment --></li>
 <li><p class="startli">If you intend to host a meeting or access your extension information, such as the meeting list or the recording list, etc, follow the steps in our RingCentral Video client SDK Dev Guide (<a href="https://ringcentral-ringcentral-video-api-docs.readthedocs-hosted.com/en/latest/client-sdk/authentication/">https://ringcentral-ringcentral-video-api-docs.readthedocs-hosted.com/en/latest/client-sdk/authentication/</a>) to procure the RingCentral authorization tokens and invoke the API method as code below.</p>
 <div class="fragment"><div class="line"><span class="comment">/*</span></div>
@@ -195,11 +195,8 @@ Known Issues</h1>
 <h1><a class="anchor" id="autotoc_md6"></a>
 Reporting usage data</h1>
 <p>We have included in the SDK the ability to send important usage data back to RingCentral systems to help product teams improve the product, monitor for issues, and better understand how developers and users are engaging with the products this SDK powers. This is enabled by default.</p>
-<p>We understand that some may prefer this information not be transmitted to RingCentral via the SDK. To opt-out of this reporting, please make the following code change(s): </p><div class="fragment"><div class="line">new RcvEngine({</div>
-<div class="line">    clientId,</div>
-<div class="line">    clientSecret,</div>
-<div class="line">    isShareUsageData: false</div>
-<div class="line">})</div>
+<p>We understand that some may prefer this information not be transmitted to RingCentral via the SDK, so the default value of &lt;#isShareUsageData#&gt; is FALSE. To opt-out of this reporting, please make the following code change(s):</p>
+<div class="fragment"><div class="line">RcvEngine.create(this.getApplicationContext(), &lt;#client ID#&gt;, &lt;#client secret#&gt;, FALSE);</div>
 </div><!-- fragment --><h2><a class="anchor" id="autotoc_md7"></a>
 What information do we transmit</h2>
 <p>When enabled, our reporting system transmits data when certain events are triggered. Accompanying each event is the following metadata:</p><ul>

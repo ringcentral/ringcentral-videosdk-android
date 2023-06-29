@@ -185,7 +185,7 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>disable vision blur vbg </p>
+<p>disable vision virtual background </p><dl class="section return"><dt>Returns</dt><dd>0 means success or fails otherwise. </dd></dl>
 
 </div>
 </div>
@@ -671,12 +671,15 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>enable vision blur vbg </p><dl class="params"><dt>Parameters</dt><dd>
+<p>enable vision virtual background. </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">value</td><td>blur value 0.0 to 100.00 default 50.0 </td></tr>
+    <tr><td class="paramname">virtual_background_type</td><td>contains blur type and image type. </td></tr>
+    <tr><td class="paramname">virtual_background_config</td><td>contains the value of blur level and the bytes of image. </td></tr>
   </table>
   </dd>
 </dl>
+<dl class="section note"><dt>Note</dt><dd>the value of blur level in virtual_background_config is 0.0 to 100.00; Dynamic adjustment is only allowed in iOS, the value of blur level is fixed 50.0 in Android. </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>0 means success or fails otherwise. </dd></dl>
 
 </div>
 </div>
