@@ -17,8 +17,9 @@ var searchData=
   ['slow_5fdown_14',['SLOW_DOWN',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#ac6f63adaf26979f5e5b72a5f7f8ab136',1,'com::ringcentral::video::EReactionAction']]],
   ['speed_5fup_15',['SPEED_UP',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#aa0fa2d4181ec9c9aa565bca7012e7036',1,'com::ringcentral::video::EReactionAction']]],
   ['stable_16',['STABLE',['../enumcom_1_1ringcentral_1_1video_1_1_e_nqi_status.html#ab2f29f298d8e81e645f7799f519c78d0',1,'com::ringcentral::video::ENqiStatus']]],
-  ['started_17',['STARTED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a16110195ecba487b42b357198c6a5f6a',1,'com::ringcentral::video::ClosedCaptionsState']]],
-  ['status_5fok_18',['STATUS_OK',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a4268a0fb0c2689ef4a7aee7f82fcc923',1,'com::ringcentral::video::MeetingErrorType']]],
-  ['stopped_19',['STOPPED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a5abcc32ad4243f4094581f94534f8c09',1,'com::ringcentral::video::ClosedCaptionsState']]],
-  ['surprised_20',['SURPRISED',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a96856d3b834cd4b0235060c41354410f',1,'com::ringcentral::video::EReactionAction']]]
+  ['start_17',['START',['../enumcom_1_1ringcentral_1_1video_1_1_call_phone_status.html#a69c02e639ccf024cc37a7e105dd73ecd',1,'com::ringcentral::video::CallPhoneStatus']]],
+  ['started_18',['STARTED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a16110195ecba487b42b357198c6a5f6a',1,'com::ringcentral::video::ClosedCaptionsState']]],
+  ['status_5fok_19',['STATUS_OK',['../enumcom_1_1ringcentral_1_1video_1_1_meeting_error_type.html#a4268a0fb0c2689ef4a7aee7f82fcc923',1,'com::ringcentral::video::MeetingErrorType']]],
+  ['stopped_20',['STOPPED',['../enumcom_1_1ringcentral_1_1video_1_1_closed_captions_state.html#a5abcc32ad4243f4094581f94534f8c09',1,'com::ringcentral::video::ClosedCaptionsState']]],
+  ['surprised_21',['SURPRISED',['../enumcom_1_1ringcentral_1_1video_1_1_e_reaction_action.html#a96856d3b834cd4b0235060c41354410f',1,'com::ringcentral::video::EReactionAction']]]
 ];

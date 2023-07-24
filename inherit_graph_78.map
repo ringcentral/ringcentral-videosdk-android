@@ -1,3 +1,16 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classcom_1_1ringcentral_1_1video_1_1_video_consumer.html" title=" " alt="" coords="5,5,248,31"/>
+<area shape="rect" id="Node000000" href="$classcom_1_1ringcentral_1_1video_1_1_video_canvas.html" title=" " alt="" coords="5,5,233,31"/>
+<area shape="rect" id="Node000001" href="$classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html" title=" " alt="" coords="304,55,556,80"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="219,31,345,51,344,57,218,37"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="61,104,177,130"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="191,103,344,78,345,84,192,108"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html" title=" " alt="" coords="281,128,579,154"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,120,280,127,280,132,192,125"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="41,203,197,228"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="199,196,232,189,378,152,379,157,233,194,201,202"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="72,153,166,179"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="180,159,280,150,280,156,181,164"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="79,55,159,80"/>
+<area shape="poly" id="edge7_Node000006_Node000001" title=" " alt="" coords="174,65,304,65,304,70,174,70"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="174,76,233,89,378,125,376,130,232,94,173,81"/>
 </map>

@@ -7,6 +7,7 @@ var hierarchy =
     [ "com.ringcentral.video.AudioEventHandler", "classcom_1_1ringcentral_1_1video_1_1_audio_event_handler.html", null ],
     [ "com.ringcentral.video.AudioProcessor", "classcom_1_1ringcentral_1_1video_1_1_audio_processor.html", null ],
     [ "com.ringcentral.video.AudioRouteType", "enumcom_1_1ringcentral_1_1video_1_1_audio_route_type.html", null ],
+    [ "com.ringcentral.video.CallPhoneStatus", "enumcom_1_1ringcentral_1_1video_1_1_call_phone_status.html", null ],
     [ "com.ringcentral.video.CaptureDevicePosition", "enumcom_1_1ringcentral_1_1video_1_1_capture_device_position.html", null ],
     [ "com.ringcentral.video.ChatPrivilege", "enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html", null ],
     [ "com.ringcentral.video.ChatType", "enumcom_1_1ringcentral_1_1video_1_1_chat_type.html", null ],

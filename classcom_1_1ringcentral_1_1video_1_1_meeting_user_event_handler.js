@@ -4,6 +4,7 @@ var classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler =
     [ "onActiveVideoUserChanged", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#acea06e44e161a655825ef0b72a4d050d", null ],
     [ "onCallOut", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#a7ec112117a7fcebb883c2f3542996045", null ],
     [ "onDeleteDial", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#abeb37bb5e1d83d27a5674d6b573e93c9", null ],
+    [ "onLocalDialStateChanged", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#ac1517767050f6581ba16349159e25a8e", null ],
     [ "onLocalNetworkQuality", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#a18f27d0f90c67b8fb1115a7583115264", null ],
     [ "onRemoteNetworkQuality", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#a9b66ada581b3b91cd9a9a1a554c8a15f", null ],
     [ "onUserJoined", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_event_handler.html#a3a46a07b367bce2191aeda0ff480b65c", null ],

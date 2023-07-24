@@ -10,6 +10,7 @@ var classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller =
     [ "getMeetingUserById", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a870db45a3f3ecf7704dd6c4b225933c7", null ],
     [ "getMeetingUserList", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#abceacde85372cc8b33232ce02da6dd73", null ],
     [ "getMyself", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a126db07cc6c4b6a6eb5218a236b9898a", null ],
+    [ "isCallOutAllowed", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a308f147ffddf1c1435e6f28e4708e259", null ],
     [ "putInWaitingRoom", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a595b4efe4f78aa3da6727a1cb7c98fa2", null ],
     [ "registerEventHandler", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#ad324b76d9dbafa931f12435b13cbd743", null ],
     [ "removeUser", "classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#af4869a83b709393ce5144307dc9f9d9b", null ],

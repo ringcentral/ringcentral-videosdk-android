@@ -7,6 +7,7 @@ var dir_157117f8a93788bda02ca041f31e64c0 =
     [ "AudioEventHandler.java", "_audio_event_handler_8java.html", "_audio_event_handler_8java" ],
     [ "AudioProcessor.java", "_audio_processor_8java.html", "_audio_processor_8java" ],
     [ "AudioRouteType.java", "_audio_route_type_8java.html", "_audio_route_type_8java" ],
+    [ "CallPhoneStatus.java", "_call_phone_status_8java.html", "_call_phone_status_8java" ],
     [ "CaptureDevicePosition.java", "_capture_device_position_8java.html", "_capture_device_position_8java" ],
     [ "ChatPrivilege.java", "_chat_privilege_8java.html", "_chat_privilege_8java" ],
     [ "ChatType.java", "_chat_type_8java.html", "_chat_type_8java" ],

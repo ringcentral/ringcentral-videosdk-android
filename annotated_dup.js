@@ -10,6 +10,7 @@ var annotated_dup =
           [ "AudioEventHandler", "classcom_1_1ringcentral_1_1video_1_1_audio_event_handler.html", "classcom_1_1ringcentral_1_1video_1_1_audio_event_handler" ],
           [ "AudioProcessor", "classcom_1_1ringcentral_1_1video_1_1_audio_processor.html", "classcom_1_1ringcentral_1_1video_1_1_audio_processor" ],
           [ "AudioRouteType", "enumcom_1_1ringcentral_1_1video_1_1_audio_route_type.html", "enumcom_1_1ringcentral_1_1video_1_1_audio_route_type" ],
+          [ "CallPhoneStatus", "enumcom_1_1ringcentral_1_1video_1_1_call_phone_status.html", "enumcom_1_1ringcentral_1_1video_1_1_call_phone_status" ],
           [ "CaptureDevicePosition", "enumcom_1_1ringcentral_1_1video_1_1_capture_device_position.html", "enumcom_1_1ringcentral_1_1video_1_1_capture_device_position" ],
           [ "ChatPrivilege", "enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html", "enumcom_1_1ringcentral_1_1video_1_1_chat_privilege" ],
           [ "ChatType", "enumcom_1_1ringcentral_1_1video_1_1_chat_type.html", "enumcom_1_1ringcentral_1_1video_1_1_chat_type" ],
