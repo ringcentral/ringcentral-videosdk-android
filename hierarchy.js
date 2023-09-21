@@ -24,8 +24,14 @@ var hierarchy =
     [ "com.ringcentral.video.ErrorCodeType", "enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html", null ],
     [ "com.ringcentral.video.EStreamActivity", "enumcom_1_1ringcentral_1_1video_1_1_e_stream_activity.html", null ],
     [ "com.ringcentral.video.RcvVideoCanvas.FirstFrameListener", "interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_first_frame_listener.html", null ],
+    [ "FrameLayout", null, [
+      [ "com.ringcentral.video.RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html", null ]
+    ] ],
     [ "com.ringcentral.video.RcvVideoCanvas.FrameResolutionChangeListener", "interfacecom_1_1ringcentral_1_1video_1_1_rcv_video_canvas_1_1_frame_resolution_change_listener.html", null ],
     [ "com.ringcentral.video.GrantType", "enumcom_1_1ringcentral_1_1video_1_1_grant_type.html", null ],
+    [ "ILocalizationProvider", null, [
+      [ "com.ringcentral.video.LocalizationProvider", "classcom_1_1ringcentral_1_1video_1_1_localization_provider.html", null ]
+    ] ],
     [ "com.ringcentral.video.InitHelper", "classcom_1_1ringcentral_1_1video_1_1_init_helper.html", null ],
     [ "com.ringcentral.video.InstantMeetingSettings", "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html", null ],
     [ "com.ringcentral.video.IParticipant", "classcom_1_1ringcentral_1_1video_1_1_i_participant.html", null ],
@@ -73,6 +79,10 @@ var hierarchy =
     ] ],
     [ "com.ringcentral.video.RemoteAudioStats", "classcom_1_1ringcentral_1_1video_1_1_remote_audio_stats.html", null ],
     [ "com.ringcentral.video.RemoteVideoStats", "classcom_1_1ringcentral_1_1video_1_1_remote_video_stats.html", null ],
+    [ "RendererEvents", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ],
+      [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html", null ]
+    ] ],
     [ "com.ringcentral.video.RenderMode", "enumcom_1_1ringcentral_1_1video_1_1_render_mode.html", null ],
     [ "com.ringcentral.video.ScheduleMeetingSettings", "classcom_1_1ringcentral_1_1video_1_1_schedule_meeting_settings.html", null ],
     [ "com.ringcentral.video.SharingController", "classcom_1_1ringcentral_1_1video_1_1_sharing_controller.html", null ],
@@ -80,6 +90,12 @@ var hierarchy =
     [ "com.ringcentral.video.SharingSettings", "enumcom_1_1ringcentral_1_1video_1_1_sharing_settings.html", null ],
     [ "com.ringcentral.video.SharingState", "enumcom_1_1ringcentral_1_1video_1_1_sharing_state.html", null ],
     [ "com.ringcentral.video.SharingType", "enumcom_1_1ringcentral_1_1video_1_1_sharing_type.html", null ],
+    [ "SurfaceTextureListener", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ]
+    ] ],
+    [ "TextureView", null, [
+      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ]
+    ] ],
     [ "com.ringcentral.video.TranscriptionsMode", "enumcom_1_1ringcentral_1_1video_1_1_transcriptions_mode.html", null ],
     [ "com.ringcentral.video.VideoCanvas", "classcom_1_1ringcentral_1_1video_1_1_video_canvas.html", [
       [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html", null ]
@@ -90,27 +106,11 @@ var hierarchy =
     [ "com.ringcentral.video.VideoDeviceManager", "classcom_1_1ringcentral_1_1video_1_1_video_device_manager.html", null ],
     [ "com.ringcentral.video.VideoEventHandler", "classcom_1_1ringcentral_1_1video_1_1_video_event_handler.html", null ],
     [ "com.ringcentral.video.VideoProcessor", "classcom_1_1ringcentral_1_1video_1_1_video_processor.html", null ],
-    [ "com.ringcentral.video.VirtualBackgroundConfig", "classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html", null ],
-    [ "com.ringcentral.video.VirtualBackgroundType", "enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html", null ],
-    [ "com.ringcentral.video.WaitingRoomMode", "enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html", null ],
-    [ "FrameLayout", null, [
-      [ "com.ringcentral.video.RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html", null ]
-    ] ],
-    [ "ILocalizationProvider", null, [
-      [ "com.ringcentral.video.LocalizationProvider", "classcom_1_1ringcentral_1_1video_1_1_localization_provider.html", null ]
-    ] ],
-    [ "RendererEvents", null, [
-      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ],
-      [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html", null ]
-    ] ],
-    [ "SurfaceTextureListener", null, [
-      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ]
-    ] ],
-    [ "TextureView", null, [
-      [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ]
-    ] ],
     [ "VideoSink", null, [
       [ "com.ringcentral.video.RcvTextureViewRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_texture_view_renderer.html", null ],
       [ "com.ringcentral.video.RcvVideoCanvas", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html", null ]
-    ] ]
+    ] ],
+    [ "com.ringcentral.video.VirtualBackgroundConfig", "classcom_1_1ringcentral_1_1video_1_1_virtual_background_config.html", null ],
+    [ "com.ringcentral.video.VirtualBackgroundType", "enumcom_1_1ringcentral_1_1video_1_1_virtual_background_type.html", null ],
+    [ "com.ringcentral.video.WaitingRoomMode", "enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html", null ]
 ];

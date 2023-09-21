@@ -58,8 +58,8 @@ var NAVTREEINDEX =
 "_audio_consumer_8java.html",
 "classcom_1_1ringcentral_1_1video_1_1_instant_meeting_settings.html#a6a3e999a310365be7d9109f057fb4b43",
 "classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#ae4b6fed44276ea3b9031e4f95da9bf5e",
-"enumcom_1_1ringcentral_1_1video_1_1_e_participant_status.html#a73540d6ca37408280f7c248451a71dde",
-"enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a6c3ef6d930a8722be9894855fe0c0651"
+"enumcom_1_1ringcentral_1_1video_1_1_e_participant_status.html#a3807930961908e0a9ff54db9129d1de8",
+"enumcom_1_1ringcentral_1_1video_1_1_only_auth_user_join_mode.html#a5d5f02d03cf568f79f981f9987583cdf"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

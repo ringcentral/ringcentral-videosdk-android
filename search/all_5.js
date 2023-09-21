@@ -112,10 +112,10 @@ var searchData=
   ['err_5fupdating_5fpersonal_5fmeeting_5fsettings_109',['ERR_UPDATING_PERSONAL_MEETING_SETTINGS',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a8731144201e19404b542d01e21d89d91',1,'com::ringcentral::video::ErrorCodeType']]],
   ['err_5fupdating_5fpersonal_5fmeeting_5fsettings_5fnot_5flog_5fin_110',['ERR_UPDATING_PERSONAL_MEETING_SETTINGS_NOT_LOG_IN',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a99664ff0a6d957eca21cd557c75eb3ec',1,'com::ringcentral::video::ErrorCodeType']]],
   ['err_5fwaiting_5fhost_5fjoin_5ffirst_111',['ERR_WAITING_HOST_JOIN_FIRST',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a98a4729b561fe7ab2f57d992994b7bfe',1,'com::ringcentral::video::ErrorCodeType']]],
-  ['errorcodetype_112',['ErrorCodeType',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html',1,'com.ringcentral.video.ErrorCodeType'],['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a7730d942db149c3c852cdbdf6df87607',1,'com.ringcentral.video.ErrorCodeType.ErrorCodeType()']]],
+  ['errorcodetype_112',['errorcodetype',['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html#a7730d942db149c3c852cdbdf6df87607',1,'com.ringcentral.video.ErrorCodeType.ErrorCodeType()'],['../enumcom_1_1ringcentral_1_1video_1_1_error_code_type.html',1,'com.ringcentral.video.ErrorCodeType']]],
   ['errorcodetype_2ejava_113',['ErrorCodeType.java',['../_error_code_type_8java.html',1,'']]],
   ['estreamactivity_114',['EStreamActivity',['../enumcom_1_1ringcentral_1_1video_1_1_e_stream_activity.html',1,'com::ringcentral::video']]],
   ['estreamactivity_2ejava_115',['EStreamActivity.java',['../_e_stream_activity_8java.html',1,'']]],
-  ['everyone_116',['EVERYONE',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE']]],
+  ['everyone_116',['everyone',['../enumcom_1_1ringcentral_1_1video_1_1_chat_privilege.html#a28e8f8533d6fb11fda8ee0346b44f785',1,'com.ringcentral.video.ChatPrivilege.EVERYONE'],['../enumcom_1_1ringcentral_1_1video_1_1_waiting_room_mode.html#aaaca9bc38d08890cc67b44bb34535510',1,'com.ringcentral.video.WaitingRoomMode.EVERYONE']]],
   ['exit_5fonly_117',['EXIT_ONLY',['../enumcom_1_1ringcentral_1_1video_1_1_play_tones_mode.html#a6c3ef6d930a8722be9894855fe0c0651',1,'com::ringcentral::video::PlayTonesMode']]]
 ];

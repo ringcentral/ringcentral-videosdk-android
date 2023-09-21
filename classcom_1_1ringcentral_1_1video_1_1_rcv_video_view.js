@@ -6,6 +6,8 @@ var classcom_1_1ringcentral_1_1video_1_1_rcv_video_view =
     [ "RcvVideoView", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a79133df8d3b4a2ce386b8c694645b765", null ],
     [ "getLayoutId", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#aa4ebc3d9357674079fa52c82d35fb564", null ],
     [ "getRenderer", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a386b78a6d3b5aae9b06f5f660224984f", null ],
+    [ "onLayout", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#aaf9e9d795e47944a8763ca0b2be006ac", null ],
+    [ "onMeasure", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a0547f8b457eccab9e0dc08d9d5336ce2", null ],
     [ "onRelease", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a309d6cb5bccd704c276ea786822ce92e", null ],
     [ "release", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a9191811770d2136ded15a120126ef70d", null ],
     [ "setMirror", "classcom_1_1ringcentral_1_1video_1_1_rcv_video_view.html#a5f90f0eb80b3dcb541e5dc13c6a0641d", null ],

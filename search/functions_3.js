@@ -4,7 +4,7 @@ var searchData=
   ['denyuser_1',['denyUser',['../classcom_1_1ringcentral_1_1video_1_1_meeting_user_controller.html#a448899b5ff8c47c67905b95e9101e778',1,'com::ringcentral::video::MeetingUserController']]],
   ['destroy_2',['destroy',['../classcom_1_1ringcentral_1_1video_1_1_rcv_engine.html#a82dda9023162b1c0c1e0d7a3b00a1acc',1,'com::ringcentral::video::RcvEngine']]],
   ['detach_3',['detach',['../classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html#a209622b391ba41702a3a2c77468b7a76',1,'com::ringcentral::video::RcvVideoCanvas']]],
-  ['detachtrack_4',['detachTrack',['../classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html#a04dc60608990b63123ec2481dd108442',1,'com.ringcentral.video.RcvVideoCanvas.detachTrack()'],['../classcom_1_1ringcentral_1_1video_1_1_video_canvas.html#aeeca8e00a4be55a6a1b291dc1af617fe',1,'com.ringcentral.video.VideoCanvas.detachTrack()']]],
+  ['detachtrack_4',['detachtrack',['../classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html#a04dc60608990b63123ec2481dd108442',1,'com.ringcentral.video.RcvVideoCanvas.detachTrack()'],['../classcom_1_1ringcentral_1_1video_1_1_video_canvas.html#aeeca8e00a4be55a6a1b291dc1af617fe',1,'com.ringcentral.video.VideoCanvas.detachTrack()']]],
   ['detachview_5',['detachView',['../classcom_1_1ringcentral_1_1video_1_1_rcv_video_canvas.html#a4095f3295617861de7d5e3b5cf297dee',1,'com::ringcentral::video::RcvVideoCanvas']]],
   ['dialinfo_6',['dialInfo',['../classcom_1_1ringcentral_1_1video_1_1_meeting_info.html#a8978172b68e51ed2a9b580a5db3874f6',1,'com::ringcentral::video::MeetingInfo']]],
   ['didchangeservermute_7',['didChangeServerMute',['../classcom_1_1ringcentral_1_1video_1_1_i_participant.html#aa5d69990d9ac70d33b150a1453501994',1,'com::ringcentral::video::IParticipant']]],
